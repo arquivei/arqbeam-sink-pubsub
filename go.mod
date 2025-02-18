@@ -2,11 +2,11 @@ module github.com/arquivei/arqbeam-pubsubio
 
 go 1.21.0
 
-toolchain go1.23.4
+toolchain go1.24.0
 
 require (
-	cloud.google.com/go/pubsub v1.45.3
-	github.com/apache/beam/sdks/v2 v2.61.0
+	cloud.google.com/go/pubsub v1.47.0
+	github.com/apache/beam/sdks/v2 v2.63.0
 )
 
 require (
